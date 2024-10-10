@@ -2,6 +2,7 @@
 <h4 align="left">I'm learning computer science in high school</h3>
 <h4 align="left">while studying cybersecurity (as my future major)</h3>
 <h4 align="left">I work in web dev, but I also do minecraft modding as a hobby :P</h3>
+- Most of my projects are private repos
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
