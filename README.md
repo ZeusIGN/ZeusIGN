@@ -4,7 +4,7 @@
 <h4 align="left">I work in web dev (fullstack), but also do modding as a hobby!</h3>
 - Most of my projects are private repos
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="left"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
